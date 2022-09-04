@@ -1,4 +1,8 @@
 pwd  a script that prints the absolute path name of the current working directory.
 Display the contents list of your current directory.
 Write a script that changes the working directory to the user’s home directory
-Display current directory contents in a long format
+-rw-r--r-- 1 996 992 16 0-current_working_directory
+-rw-r--r-- 1 996 992 18 1-listit
+-rw-r--r-- 1 996 992 18 2-bring_me_home
+-rw-r--r-- 1 996 992 18 3-listfiles
+-rw-r--r-- 1 996 992 268 README.md
