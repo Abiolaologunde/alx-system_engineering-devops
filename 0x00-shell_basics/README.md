@@ -8,3 +8,4 @@ Write a script that changes the working directory to the user’s home directory
 -rw-r--r-- 1 996 992 268 README.md
 Display current directory contents, including hidden files (starting with .). Use the long format.
 Display current directory contents.
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
